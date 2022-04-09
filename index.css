@@ -275,7 +275,7 @@ h2 {
 	flex-direction: row;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	gap: 2rem;
+	gap: 2vw;
 }
 
 .secondary-card {
@@ -289,7 +289,7 @@ h2 {
 	padding: 1.5rem 2.2rem;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 1024px) {
 
 	main {
 		padding-top: 3.8rem;
